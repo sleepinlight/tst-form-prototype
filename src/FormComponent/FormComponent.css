@@ -2,3 +2,13 @@
     background-color: #33A1FD;
     color: #ffffff;
 }
+
+.terms-and-conditions-ipsum-container {
+    max-height:400px;
+    margin-bottom: 30px;
+    overflow:scroll;
+}
+
+.terms-and-conditions-header {
+    text-transform: uppercase;
+}
